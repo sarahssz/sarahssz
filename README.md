@@ -5,8 +5,9 @@
  
   <p> 🤍 Estudo Desenvolvimento Web Front-End
   <p> ❤️ Tenho interesse em Pyton, linguagens em C e Back-End</h2>
-  <p> 💗 Dev Júnior
-  <p align="center">  🐱🐾🌸
+  <p> 💖 Dev Júnior
+  <p> 💗 S.I - PUC
+  <p align="center"> 🐱🐾🌸
 
 <div align="center">
   <a href="https://github.com/sarahssz">
