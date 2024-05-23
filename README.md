@@ -13,7 +13,7 @@
   <p> 💗 S.I - PUC
     
   <br>
-  <p align="center"> 🐱🐾🌸
+  <p align="center">ㅤㅤ🐱🐾🌸
 <br> <br>
 <div align=center>
   <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sarahssz&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
