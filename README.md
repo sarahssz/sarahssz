@@ -12,9 +12,10 @@
   <p> 💖 Trainee Requirements Analyst
   <p> 💗 S.I - PUC
     
-  <br>
+  <br><br>
   <p align="center">ㅤㅤ🐱🐾🌸
 <br> <br>
+      
 <div align=center>
   <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sarahssz&count_private=true&theme=dracula&border_radius=10" alt="streak stats"/>
   <img width=405 src="https://github-readme-stats-salesp07.vercel.app/api?username=sarahssz&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
