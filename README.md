@@ -5,7 +5,7 @@
 
  <br>
 <img align="right" alt="sarah-pic" height="150" style="border-radius:50px;" 
- src="https://cdn.discordapp.com/attachments/886045514188070973/1019004870180749346/Sarinha2.gif?ex=664fbcbd&is=664e6b3d&hm=4923811fc99b75f3146a167b5a864702bb1e37454b4c93d862931d28c78f535b&">
+ src="https://cdn.discordapp.com/attachments/886045514188070973/1019004870180749346/Sarinha2.gif?ex=66a0283d&is=669ed6bd&hm=d6c82945c73429a75fde5fe4dc0494f7c0b04daea75310ed93b1c1421ed00a53&">
 
   <p> 🤍 Studying Backend
   <p> ❤️ I'm interested in Java
